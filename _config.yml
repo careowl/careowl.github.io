@@ -9,7 +9,7 @@ playstore_link                            :                                     
 presskit_download_link                    : https://bit.ly/careowlmvp                                         # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file).
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
-app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
+app_icon                                  : assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description                           : Support our frontline health workers using knowledge and connection
@@ -34,16 +34,16 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Peer-to-peer collaboration
-    description                           : #Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
-    fontawesome_icon_name                 : handshake-o
+  - title                                 : Connect with your community #Peer-to-peer collaboration
+    description                           : Designed to help you learn covid-related best practice with a community #connect with one another #Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
+    fontawesome_icon_name                 : share-alt
 
-  - title                                 : Expert-driven advice
-    description                           : #Preview your app in the context of an iPhone device. Five different device colors included.
+  - title                                 : Find peace of mind with experts
+    description                           : Health advice provided by our verified experts #Preview your app in the context of an iPhone device. Five different device colors included.
     fontawesome_icon_name                 : hand-holding-heart
 
-  - title                                 : Gamification
-    description                           : #Preview app video on the iPhone device simply by placing your video files in the videos folder.
+  - title                                 : Collect reward points
+    description                           : Treat yourself as you learn #Preview app video on the iPhone device simply by placing your video files in the videos folder.
     fontawesome_icon_name                 : play-circle
 
   - title                                 : # New Feature Title
