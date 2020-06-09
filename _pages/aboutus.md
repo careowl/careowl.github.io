@@ -3,6 +3,7 @@ layout: page
 title: About Us
 include_in_header: true
 ---
+{% include appstoreimages.html %}
 
 # Our Story
 
