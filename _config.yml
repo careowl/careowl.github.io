@@ -12,7 +12,7 @@ presskit_download_link                    : https://medium.com/@lcdvirgo/our-unt
 app_icon                                  : assets/appicon.png
 app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Support our frontline health workers using knowledge and connection
+app_description                           : Support our frontline health workers with knowledge, connection and rewards
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
